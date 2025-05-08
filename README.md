@@ -16,7 +16,7 @@
 
 ## Installation
 
-### HyDE Project
+#### HyDE Project
 To install **Cosmis Blue** on `HyDE Project`, run the following command:
 ```sh
 hydectl theme import --name "Cosmic Blue" --url https://github.com/Maroc02/Cosmic-Blue
@@ -29,7 +29,7 @@ hydectl theme import
 
 Then choose **Cosmis Blue** from the options.
 
-### Hyprdots
+#### Hyprdots
 To install **Cosmis Blue** on `Hyprdots`, run the following command:
 
 ```sh
@@ -43,8 +43,8 @@ Hyde theme import
 
 Then choose **Cosmis Blue** from the options.
 
-### General
-Alternatively, you can use a general option working on both `HyDE Project` and `Hyprdots`:
+#### General
+Alternatively, you can use a general option that works on both `HyDE Project` and `Hyprdots`:
 ```sh
 ~/HyDE/Scripts/themepatcher.sh "Cosmic Blue" https://github.com/Maroc02/Cosmic-Blue
 ```
