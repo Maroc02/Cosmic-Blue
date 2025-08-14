@@ -20,7 +20,7 @@ general {
 
 group {
     col.border_active = rgba(7AA2F7FF) rgba(99FEFFFF) 45deg
-    col.border_inactive = rgba(534d5ecc) rgba(A0A0C5FF) 45deg
+    col.border_inactive = rgba(534D5ECC) rgba(A0A0C5FF) 45deg
     col.border_locked_active = rgba(7AA2F7FF) rgba(99FEFFFF) 45deg
     col.border_locked_inactive = rgba(53495DFF) rgba(A0A0C5FF) 45deg
 }
